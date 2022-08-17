@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Max Murphy - Fullstack Software Engineer
+## I'm Max Murphy - Fullstack Software Engineer
 
 #### Connect with me: 
 
