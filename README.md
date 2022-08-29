@@ -6,6 +6,7 @@
 
 - [Linkedin](https://www.linkedin.com/in/maxmmurphy/) 
 - maxmurphymi@gmail.com
+- [Portfolio](https://maxmmurphy.com/)
 
 <!--
 **murphy-mi/murphy-mi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
