@@ -4,7 +4,7 @@
 
 #### Connect with me: 
 
-- [Linkedin](https://www.linkedin.com/in/maxmmurphy/) 
+- [LinkedIn](https://www.linkedin.com/in/maxmmurphy/) 
 - maxmurphymi@gmail.com
 - [Portfolio](https://maxmmurphy.com/)
 
